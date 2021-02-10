@@ -1,2 +1,2 @@
 # Cheatsheets
-Cheatsheets for some quick refreshers.
+Supplies of cheatsheets that make a life-or-death difference.
