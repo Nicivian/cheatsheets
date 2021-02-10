@@ -1,2 +1,2 @@
 # Cheatsheets
-Supplies of cheatsheets that make a life-or-death difference.
+Supplies of Cheatsheets that make a Life-or-Death difference.
